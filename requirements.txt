@@ -1,0 +1,14 @@
+jsonpickle
+boto3
+attrs
+attrs_mate==1.0.0
+pynamodb==5.1.0
+smart_open==5.2.1
+pysecret==1.0.1
+cottonformation==0.0.4
+opensearch-py==1.0.0
+requests_aws4auth==1.1.1
+chalice
+rich
+sfm==0.0.17
+Faker
